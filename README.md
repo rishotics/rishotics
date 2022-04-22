@@ -28,7 +28,7 @@
 
 <br>
 
-![Viral's github stats](https://github-readme-stats.vercel.app/api?username=viral-sangani&show_icons=true&hide_border=true)
+![Viral's github stats](https://github-readme-stats.vercel.app/api?username=rishotics&show_icons=true&hide_border=true)
 
 <br>
 
@@ -118,6 +118,6 @@
 </table>
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=viral-sangani)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rishotics)
 
 -->
