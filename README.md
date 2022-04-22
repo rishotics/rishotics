@@ -1,4 +1,4 @@
-# Viral Sangani&nbsp;<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Rishabh Gupta&nbsp;<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 <!--
     &nbsp; [![HitCount](http://hits.dwyl.com/viral-sangani/viral-sangani.svg)](http://hits.dwyl.com/viral-sangani/viral-sangani)
