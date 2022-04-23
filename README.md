@@ -17,24 +17,11 @@
   </em>  
 </p>
 
-<br>
 
-- <img alt="GIF" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/wave.gif" width="20vw" /> I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m _currently learning_ how to **flex README** on my **profile** 💪.
-- <img alt="GIF" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/hmm.gif" width="20vw" /> I’m _looking_ for _help_ with **wifi connection 🌐**
-- <img alt="GIF" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/happy.gif" width="20vw" /> _Ask me_ about **why do I think aliens 👽 exist.**
-- <img alt="GIF" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [_He/Him_](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My _smartness_ 💡 lies in my _laziness_ 😴
 
-<br>
+![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rishotics&show_icons=true&hide_border=true)
 
-![Viral's github stats](https://github-readme-stats.vercel.app/api?username=rishotics&show_icons=true&hide_border=true)
 
-<br>
-
-<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-
-<br>
 
 <!-- # Connect with me<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Handshake.gif" height="32px">
 
