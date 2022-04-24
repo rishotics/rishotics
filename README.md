@@ -4,7 +4,7 @@
     &nbsp; [![HitCount](http://hits.dwyl.com/viral-sangani/viral-sangani.svg)](http://hits.dwyl.com/viral-sangani/viral-sangani)
 -->
 
-<img align="right" alt="PC GIF" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/PC.gif" width="190" />
+
 
 ### <img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Earth.gif" width="24px">
 
