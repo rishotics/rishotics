@@ -1,25 +1,23 @@
-# Rishabh Gupta&nbsp;<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-
-<!--
-    &nbsp; [![HitCount](http://hits.dwyl.com/viral-sangani/viral-sangani.svg)](http://hits.dwyl.com/viral-sangani/viral-sangani)
--->
 
 
 
-### <img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Earth.gif" width="24px">
 
-<p>
-  <em>
-    I am <b>Software Developer</b> <img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Developer.gif" width="30px"> and a <b>Web3    Enthusiast,</b>&nbsp;<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Medal.gif" width="20px">
-  </em>  
-</p>
+<div align="center">
+Hey! I'm @Rishabh Gupta.
+<br/>
+I am an Analyst at Goldman Sachs, living in Bengaluru, India 🇮🇳 &nbsp;.
+<br/>
+<br/>
 
-
-
-![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rishotics&show_icons=true&hide_border=true)
+<a href="https://twitter.com/roshotics">
+  <img alt="Rishabh's Twitter" width="22px" src="https://raw.githubusercontent.com/orkohunter/orkohunter/master/src/images/logos/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/rishotics">
+  <img alt="Rishabh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/orkohunter/orkohunter/master/src/images/logos/linkedin.svg" />
+</a>
+<!-- Not interested in displaying the profile views. -->
+<img width="0" height="0" src="https://komarev.com/ghpvc/?username=orkohunter" />
+</div>
 
 
 
