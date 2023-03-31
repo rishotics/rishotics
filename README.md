@@ -5,7 +5,7 @@
 <div align="center">
 Hey! I'm @Rishabh Gupta.
 <br/>
-I am an Analyst at Goldman Sachs, living in Bengaluru, India 🇮🇳 &nbsp;.
+I am building Banana SDk, living in Bengaluru, India 🇮🇳 &nbsp;.
 <br/>
 <br/>
 
