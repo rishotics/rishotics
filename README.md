@@ -5,7 +5,7 @@
 <div align="center">
 Hey! I'm @Rishabh Gupta.
 <br/>
-I am building Banana SDk, living in Bengaluru, India 🇮🇳 &nbsp;.
+I am building Banana SDK, currently living in Bengaluru, India 🇮🇳 &nbsp;.
 <br/>
 <br/>
 
